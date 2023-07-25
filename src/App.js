@@ -15,7 +15,7 @@ function App() {
   <a href="https://github.com/spoe-code/reactweather4">
     Open-source code on GitHub
   </a>
-  by Samantha Poe
+  by Sam Poe
 </footer>;
 
 export default App;
